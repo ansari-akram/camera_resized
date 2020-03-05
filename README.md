@@ -6,6 +6,6 @@
   
 ****
 ### How to run:
-  - run `<conf.bat>` file
+  - run [conf.bat](https://github.com/ansari-akram/camera_resized/blob/master/conf.bat) file
   - paste your IP Camera Link in the window
   - click Submit Button
