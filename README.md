@@ -6,6 +6,6 @@
   
 ****
 ### How to run:
-  - run conf.bat file
+  - run `<conf.bat>` file
   - paste your IP Camera Link in the window
   - click Submit Button
